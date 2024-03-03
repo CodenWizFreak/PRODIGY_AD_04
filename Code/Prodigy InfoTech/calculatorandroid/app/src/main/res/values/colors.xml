@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your colors here -->
+    <color name="displayBackground">#E2E9EE</color>
+    <color name="primaryText">#323233</color>
+    <color name="secondaryText">#74797C</color>
+    <color name="actionText">#48C1B5</color>
+    <color name="allClearText">#EA6B6A</color>
+    <color name="equalButtonBackground">#36B8AB</color>
+    <color name="equalButtonText">#FFFEFE</color>
+    <color name="buttonsBackground">#F5F6F8</color>
+    <color name="divider">#E2E9EE</color>
+    <color name="statusBar">#C3C7CB</color>
+</resources>

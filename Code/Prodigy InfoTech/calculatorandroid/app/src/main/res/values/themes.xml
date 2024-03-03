@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculatorandroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/statusBar</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Calculatorandroid" parent="Base.Theme.Calculatorandroid" />
+
+    <style name="CalculatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:inset">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:backgroundTint">@color/buttonsBackground</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+
+    <style name="AllClearButton" parent="CalculatorButton">
+        <item name="android:textColor">@color/allClearText</item>
+    </style>
+
+    <style name="ActionButton" parent="CalculatorButton">
+        <item name="android:textColor">@color/actionText</item>
+    </style>
+
+</resources>
