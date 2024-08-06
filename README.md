@@ -27,7 +27,7 @@ Contributions to improve **PRODIGY_AD_04** are welcome! If you have ideas or sug
 6. **Open a Pull Request.**
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ### Contact
 For questions or support, feel free to reach out:
