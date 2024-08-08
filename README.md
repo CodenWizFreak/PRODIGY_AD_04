@@ -1,6 +1,6 @@
 # PRODIGY_AD_04
 
-Welcome to the Tic Tac Toe app! This is a classic game implemented as an android application. Play against another player and enjoy the timeless fun of Tic Tac Toe. This was created as an internship project at Prodigy Infotech.
+Welcome to the Tic Tac Toe game app! This is a classic game implemented as an android application. Play against another player and enjoy the timeless fun of Tic Tac Toe. This was created as an internship project at Prodigy Infotech.
 
 ## Contributing
 
